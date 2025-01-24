@@ -6,7 +6,6 @@ The app tells the current temperature and some additional information like Air Q
 ## Configuration
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps to set up your API key:
 
-* Go to the OpenWeatherMap website: https://openweathermap.org/
 * Sign up for a free account or log in if you already have an account.
 * Once logged in, go to your profile and navigate to the "API Keys" section.
 * Generate a new API key and copy it.
